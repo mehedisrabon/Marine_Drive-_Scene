@@ -3,7 +3,7 @@
 
 
 This is a dynamic and colorful animated scene built using **OpenGL with C++**, inspired by a scenic "Marine Drive" view. The project demonstrates natural transitions through **day**, **sunset**, and **night** using graphical elements like vehicles, rivers, forests, and celestial changes. It’s a great showcase of animation techniques and scene transitions using basic OpenGL concepts.
-
+🕹️ Users can interact with the scene using keyboard input — pressing specific keys switches between the daytime, sunset, and night views, allowing manual control of the sun, moon, and sky environment.
 ---
 
 ## 🎬 Scene Overview
